@@ -31,6 +31,7 @@
 ![Hello!](geekbrains.png)
 
 ## Working lists
+Необходимо отредактировать данный раздел.
 
 ## References
 
